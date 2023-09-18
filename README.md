@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **CS at NHL Stenden in Emmen**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
 
 - 🌱 I’m currently learning **CS at NHL Stenden in Emmen**
 

@@ -2,8 +2,8 @@
 
 ###
 
-<div align="center">
-  ![Mithril64's Stats](https://github-readme-stats.vercel.app/api?username=Mithril64&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Mithril64&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150" alt"idk thingy" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mithril64&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 

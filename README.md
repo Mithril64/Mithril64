@@ -1,13 +1,5 @@
 <h2 align="left">Hi 👋! My name is Mithril.</h2>
 
-###
-
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithril64&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="150" alt"idk thingy" />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media1.tenor.com/m/NkRBt9QF4LgAAAAd/i-use-vim-i-use.gif"  />
 
 ###
